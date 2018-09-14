@@ -64,6 +64,6 @@ const PetsController = {
     destroy: destroy,
     save: save,
     add: add
-}
+};
 
 module.export = PetsController;
